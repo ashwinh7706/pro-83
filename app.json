@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "github.com/pro-whitehatjr/st-83-boilerplate",
+    "slug": "snack-b0c54f7b-3364-42b7-a7f7-ed6759826532",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/pro-whitehatjr/ST-83-Boilerplate @ May 27, 2022"
+  }
+}
